@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- #### Name: [Paras Yadav](https://github.com/parasyadav08)
+ - Place: Uttar Pradesh, India
+ - Bio: CSE Undergrad in VIT 
+ - Github: [parasyadav08](https://github.com/parasyadav08/)
